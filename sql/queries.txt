@@ -1,0 +1,4 @@
+CREATE DATABASE hibernate69;
+
+USE hibernate69;
+
